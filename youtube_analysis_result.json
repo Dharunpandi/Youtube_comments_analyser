@@ -1,0 +1,41 @@
+{
+  "creator_name": "Green Code",
+  "sections": {
+    "Content Appreciation": {
+      "feedback": "[Points]\n* Many viewers expressed interest in the project and its potential applications (e.g., predicting scores, betting, other sports).\n* Several viewers praised the video's quality (\"hey very nice video , learned a lot !!!!\", \"This is sick bro \ud83d\ude0e\").\n* Viewers appreciated the clear explanation, despite some expressing it was still too complex.\n* Positive comments about the content style and its resemblance to Code Bullet.\n*  A viewer identified a potential flaw in the model's reliance on ELO ratings and provided a compelling example. This shows engagement and critical thinking from the audience.\n\nScore: 8/10",
+      "score": 8.0
+    },
+    "Suggestions for Improvement": {
+      "feedback": "[Points]\n* Several viewers requested access to the code and dataset.  Providing these resources would significantly enhance viewer engagement and allow for reproducibility.\n* Viewers requested clarification on the XGBoost model and its parameters.  A deeper dive into this aspect would be beneficial.\n* Several viewers asked about applying the model to other sports (baseball, chess, Wimbledon, Champions League).  Exploring these applications could broaden the video's appeal.\n* A few viewers suggested starting with simpler ML models for beginners.  Addressing this in future tutorials could improve accessibility.\n* A viewer mentioned the model's potential bias towards higher seeds. Addressing this concern and discussing model limitations would add to the video's credibility.\n* Many requests for information on the software/tools used for coding and video editing.\n\nScore: 7/10",
+      "score": 7.0
+    },
+    "Criticism": {
+      "feedback": "[Points]\n* One comment (\"Bullshit\") directly criticizes the video's content, though without elaboration.\n* A comment suggests the model's accuracy isn't impressive, as it primarily predicts based on higher seeds.\n* Some comments imply the video is too complex or boring for beginners (\"I skipped to the end, its boring\").\n* A comment (\"Very misguiding 85% correct but obviously the higher seed is most likely to take it\") questions the model's accuracy and implies misleading claims.\n\nScore: 4/10",
+      "score": 4.0
+    },
+    "Spam or Trolling": {
+      "feedback": "[Points]\n* The \"brilliant.org\" affiliate link is borderline spam, depending on your policy on such links.\n* The overwhelming number of \"potato\" comments constitutes low-effort trolling.\n\nScore: 6/10",
+      "score": 6.0
+    },
+    "Technical Issues": {
+      "feedback": "[Points]\n* No significant technical issues were raised in the comments.\n\nScore: 10/10",
+      "score": 10.0
+    },
+    "Overall Video Score": {
+      "feedback": "[One line summary]\nA well-received video with strong interest from viewers, but needs improvements in addressing code/data accessibility and handling some valid criticisms regarding model limitations.\n\nScore: 7/10",
+      "score": 7.0
+    }
+  },
+  "sentiment_analysis": {
+    "sentiment_counts": {
+      "positive": 22,
+      "neutral": 38,
+      "negative": 6
+    },
+    "sentiment_percentages": {
+      "positive": 33.33,
+      "neutral": 57.58,
+      "negative": 9.09
+    }
+  }
+}
